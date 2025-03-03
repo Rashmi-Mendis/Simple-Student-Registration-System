@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677561519 source:d:\rusl\sem 2\ict1306 - object oriented programming\project\miniprojectoop\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
